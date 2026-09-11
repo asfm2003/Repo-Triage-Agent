@@ -55,8 +55,6 @@ Run the Streamlit UI locally to see the agent's tool-calling trace live, round b
 streamlit run streamlit_app.py
 ```
 
-*(Screenshot/GIF placeholder — add one here once you've recorded a run.)*
-
 ## Setup
 
 1. Clone the repo and create a virtual environment:
